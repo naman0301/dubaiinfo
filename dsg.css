@@ -16,7 +16,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 16.5px;
   text-decoration: none;
   font-family: "times new roman";
 
@@ -31,14 +31,6 @@ ol{
 
 li {
   float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16.51px;
-  text-decoration: none;
 }
 
 .active {
