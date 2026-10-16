@@ -1,3 +1,14 @@
-# Created an interactive multipage website on Dubai
-# It provides a traveler planning to go to Dubai a wide range of information 
-# Information includes where to stay (includes hotels with 7 Star, 5 Star and 3 Star ratings), where to eat, nearby places to visit and many more things which a person can explore in Dubai 
+# Naman Shah — Portfolio
+
+Live site: **https://naman0301.github.io**
+
+Business Analyst | Data & Application Support (SQL, Power BI) | Aspiring Product Manager.
+
+The portfolio is a single self-contained page (`index.html`): business stories, AI builds, skills, experience and education.
+
+## Also in this repo
+- [`dubai-travel-site/`](dubai-travel-site/) — an earlier (2021) multipage Dubai travel website with hotels by star rating, restaurants and places to visit. Live at https://naman0301.github.io/dubai-travel-site/
+
+## Contact
+- Email: namanbshah0301@gmail.com
+- LinkedIn: https://www.linkedin.com/in/namanbshah/
